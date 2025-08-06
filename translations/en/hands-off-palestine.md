@@ -1,0 +1,21 @@
+# Hands Off Palestine
+
+They say they have the right to defend themselves, but they dropped tens of thousands of tons of bombs on the people who lived there. They say they manage humanitarian aid, but they killed children who came looking for a bag of flour. They say that releasing the hostages would be enough to stop the massacre, but they themselves sabotaged all negotiations, they struck blindly, they destroyed everything. In the West Bank, settlers harass, humiliate, imprison, and kill without mercy. How many thousands of Palestinians have been arrested and locked down without trial? How many have been tortured in these prisons for years? When will they be freed?
+
+The Israeli strategy is well-known: they make life impossible for Palestinian men and women to drive them out and take their land. In East Jerusalem and the West Bank, for decades they have methodically divided villages from one another, destroyed homes and uprooted crops with bulldozers, hoping that people will despair and leave. In Gaza, they cynically starve those who survived the bombings. People kill each other for a packet of cookies. They make them thirsty until they crack and decide to leave. But Gaza is under siege. They cannot leave. They are trapped. What is happening is neither a war nor a natural disaster, it is genocide. The ethnic cleansing that has been ongoing for years has become genocide.
+
+We will not let this happen.
+
+The October 2023 attack can in no way justify the death of hundreds of humanitarian workers, hundreds of journalists, thousands of healthcare workers, and tens of thousands of children. The entire world is horrified by this outpouring of blind violence. History did not begin on October 7th: in the early 1980s, there was neither Hezbollah nor Hamas, and yet Israel was already terrorizing the Palestinian people with complete impunity. And today kids are being amputated without anesthesia every day because Israeli soldiers amuse themselves by shooting them with snipers before boasting about it on the networks.
+
+We cannot say that we did not know. What will our children say if we do not act today? Palestine has lived under foreign occupation for a century. Despite UN resolutions, declarations and good intentions, very few binding actions have been taken against Israel. We are the ones who will pay cash for the generalized political cowardice.
+
+Colonization must end.
+
+The Hague Group is an international coalition created to coordinate legal, diplomatic and economic measures against violations of international law in Palestine. Launched by 8 countries, this movement now brings together 30 participants determined to enforce international law.
+
+Six concrete measures were adopted at the Bogotá conference to break Israel's impunity: a total embargo on weapons and military equipment, the prohibition of docking for ships carrying military material to Israel, systematic inspection of ships flying the national flag, review of all public contracts with complicit companies, the initiation of national judicial proceedings against those responsible for war crimes, and the application of the principle of universal jurisdiction so that criminals are tried and convicted.
+
+Namibia and Malaysia have blocked access to their ports for ships carrying weapons to Israel. Colombia has suspended its exports and recalled its ambassador from Israel. Bolivia has also recalled its ambassador. We call on all countries of the world to join the Hague Group and to immediately implement these decisive measures. They have a legal obligation to act, and it is up to us to remind them with the greatest force: this is the only way to end the genocide and occupation.
+
+Let us make the effort to understand one another. This is everyone's concern. Carry as far as possible the voice of Palestinian men and women. Whatever happens in the future, we will help them rebuild tomorrow's Palestine. Through dialogue and mutual aid, we will silence the weapons, lies and stupidity. We will enforce the law so that Palestine will live.

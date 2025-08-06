@@ -2,15 +2,17 @@
 
 A call for action to stop the ongoing violence and support Palestinian rights.
 
-Help carry this message as far as possible.
+Help carry this message as far as possible in every possible way.
 
 ## Languages Available
 
-- 🇫🇷 **Français** (original): [texte.md](original/texte.md)
+- 🇫🇷 [**Français**](original/hands-off-palestine.md) (original)
+- 🇺🇸 [**English**](translations/en/hands-off-palestine.md)
+- 🇨🇳 [**中文**](translations/zh/hands-off-palestine.md) | [Pinyin](translations/zh/hands-off-palestine-pinyin.md)
 
 ## Contribute
 
-Please read the [contribution guidelines](CONTRIBUTING.md).
+If you'd like to translate to another language, you're very welcome to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
 ## Repository Maintenance
 
