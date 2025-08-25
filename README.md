@@ -16,23 +16,13 @@ If you'd like to translate to another language, you're very welcome to do so. Pl
 
 ## Repository Maintenance
 
-This repository is maintained by [Julien Béranger](https://github.com/julienbrg). For direct communication, you may reach out via:
-
-- [Farcaster](https://warpcast.com/julien-)
-- [Element](https://matrix.to/#/@julienbrg:matrix.org)
-- [Status](https://status.app/u/iwSACggKBkp1bGllbsOwIwSACggKBkp1bGllbs=#zQ3shmh1sbvE6qrGotuyNQB22XU5jTrZ2HFC8bA56d5kTS2fy)
-- [Telegram](https://t.me/julienbrg)
-- [Twitter](https://twitter.com/julienbrg)
-- [Discord](https://discordapp.com/users/julienbrg)
-- [LinkedIn](https://www.linkedin.com/in/julienberanger/)
+This repository is maintained by [Julien Béranger](https://github.com/julienbrg). For direct communication, you may reach out via [Farcaster](https://warpcast.com/julien-), [Element](https://matrix.to/#/@julienbrg:matrix.org), [Status](https://status.app/u/iwSACggKBkp1bGllbsOwIwSACggKBkp1bGllbs=#zQ3shmh1sbvE6qrGotuyNQB22XU5jTrZ2HFC8bA56d5kTS2fy), [Telegram](https://t.me/julienbrg), [Twitter](https://twitter.com/julienbrg), [Discord](https://discordapp.com/users/julienbrg), or [LinkedIn](https://www.linkedin.com/in/julienberanger/).
 
 ## License
 
 This work is licensed under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) license.
 
-### What this means:
-
-**You are free to:**
+**You can:**
 - **Share** — copy and redistribute the material in any medium or format
 - **Commercial use** — use for any purpose, even commercially
 
