@@ -1,4 +1,4 @@
-# Hands Off Palestine
+# Pour que vive la Palestine
 
 Ils disent qu’ils ont le droit de se défendre, mais ils ont lâché des dizaines de milliers de tonnes de bombes sur les gens qui vivaient là. Ils disent qu’ils gèrent l’aide humanitaire, mais ils ont tué des gamins qui venaient chercher un sac de farine. Ils disent qu'il suffirait de libérer les otages pour que le massacre s'arrête, mais ce sont eux-même qui ont saboté toutes les négociations, ils ont frappé aveuglément, ils ont tout détruit. En Cisjordanie, les colons harcèlent, humilient, enferment, et tuent sans pitié. Combien de milliers de Palestiniens ont été arrêtés et emprisonnés sans procès ? Combien sont torturés dans ces prisons depuis des années ? Quand seront-ils libérés ?
 
