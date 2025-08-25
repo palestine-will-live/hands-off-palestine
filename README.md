@@ -22,9 +22,7 @@ This repository is maintained by [Julien Béranger](https://github.com/julienbrg
 
 This work is licensed under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) license.
 
-### What this means:
-
-**You are free to:**
+**You can:**
 - **Share** — copy and redistribute the material in any medium or format
 - **Commercial use** — use for any purpose, even commercially
 
