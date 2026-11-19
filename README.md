@@ -14,9 +14,23 @@ Help carry this message as far as possible in every possible way.
 
 If you'd like to translate to another language, you're very welcome to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
-## Repository Maintenance
+### Official Translations
 
-This repository is maintained by [Julien Béranger](https://github.com/julienbrg). For direct communication, you may reach out via [Farcaster](https://warpcast.com/julien-), [Element](https://matrix.to/#/@julienbrg:matrix.org), [Status](https://status.app/u/iwSACggKBkp1bGllbsOwIwSACggKBkp1bGllbs=#zQ3shmh1sbvE6qrGotuyNQB22XU5jTrZ2HFC8bA56d5kTS2fy), [Telegram](https://t.me/julienbrg), [Twitter](https://twitter.com/julienbrg), [Discord](https://discordapp.com/users/julienbrg), or [LinkedIn](https://www.linkedin.com/in/julienberanger/).
+**All translations in the `translations/` directory are official translations** that have been authorized and reviewed for accuracy.
+
+**Translation Policy:**
+- The original work is protected under CC BY-ND 4.0 (No Derivatives)
+- Official translations are created with explicit permission through our GitHub repository process
+- Each official translation maintains the same protection level and quality standards as the original
+- All official translations are licensed under CC BY-ND 4.0 to prevent distortion while allowing sharing
+
+## Contact
+
+**Julien Béranger** ([GitHub](https://github.com/julienbrg))
+
+- Element: [@julienbrg:matrix.org](https://matrix.to/#/@julienbrg:matrix.org)
+- Farcaster: [julien-](https://warpcast.com/julien-)
+- Telegram: [@julienbrg](https://t.me/julienbrg)
 
 ## License
 
@@ -32,13 +46,3 @@ This work is licensed under the [CC BY-ND 4.0](https://creativecommons.org/licen
 
 **No additional restrictions:**
 - You cannot apply legal terms or technological measures that legally restrict others from doing anything the license permits
-
-### Official Translations
-
-**All translations in the `translations/` directory are official translations** that have been authorized and reviewed for accuracy.
-
-**Translation Policy:**
-- The original work is protected under CC BY-ND 4.0 (No Derivatives)
-- Official translations are created with explicit permission through our GitHub repository process
-- Each official translation maintains the same protection level and quality standards as the original
-- All official translations are licensed under CC BY-ND 4.0 to prevent distortion while allowing sharing
