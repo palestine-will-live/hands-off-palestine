@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.0 - 2026-11-19
+
+- Add a social preview to `index.html`: the Palestinian flag as the Open Graph and Twitter image, a large Twitter card, `og:url`, `og:site_name` and a canonical link.
+- Replace the description of `index.html`, a truncated first sentence, with « Ce qui se passe n’est ni une guerre ni une catastrophe naturelle, c’est un génocide. Nous ne laisserons pas faire. », and add keywords.
+- Add a favicon.
+
 ## 1.3.1 - 2026-11-19
 
 - Add more space above the title of `index.html`, between the author name and the text, and between the lines of the text.
