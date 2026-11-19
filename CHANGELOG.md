@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.1 - 2026-11-19
+
+- Add more space above the title of `index.html`, between the author name and the text, and between the lines of the text.
+- Open the footer links of `index.html` in a new tab.
+
 ## 1.3.0 - 2026-11-19
 
 - Add `index.html`, a static web page showing the French original in the blog post layout.
