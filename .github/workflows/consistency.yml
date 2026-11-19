@@ -1,0 +1,14 @@
+name: Consistency
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  index:
+    name: index.html matches the original
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/scripts/check-index.py
