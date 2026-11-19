@@ -6,9 +6,11 @@ Help carry this message as far as possible in every possible way.
 
 ## Languages Available
 
-- 🇫🇷 [**Français**](original/hands-off-palestine.md) (original)
+- 🇫🇷 [**Français**](original/hands-off-palestine.md) (original) | [Web page](index.html)
 - 🇺🇸 [**English**](translations/en/hands-off-palestine.md)
 - 🇨🇳 [**中文**](translations/zh/hands-off-palestine.md) | [Pinyin](translations/zh/hands-off-palestine-pinyin.md)
+
+The web page is checked against the original on every push and pull request by the [consistency workflow](.github/workflows/consistency.yml).
 
 ## Contribute
 
